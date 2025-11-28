@@ -1,0 +1,7 @@
+Frontend running on localhost:5173
+Backend running on localhost:5000
+
+MongoDB connected successfully
+JWT authentication working
+CRUD APIs tested
+Routes protected
