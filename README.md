@@ -47,3 +47,42 @@ Backend:
 ## How to run the project
 
 ### Backend
+### Frontend
+
+
+
+------
+
+## API Routes
+
+### Auth
+POST /api/auth/register  
+POST /api/auth/login  
+GET /api/auth/profile  
+PUT /api/auth/profile  
+
+### Tasks
+GET /api/tasks  
+POST /api/tasks  
+PUT /api/tasks/:id  
+DELETE /api/tasks/:id  
+
+------
+
+## Security
+- Passwords are encrypted
+- JWT token used for authorization
+- Secrets stored in environment variables
+
+------
+
+## Scalability
+- Clean folder architecture
+- Separate frontend and backend
+- Cloud ready
+- Can be deployed on Vercel / Render / AWS
+
+------
+
+## Author
+Harkesh
